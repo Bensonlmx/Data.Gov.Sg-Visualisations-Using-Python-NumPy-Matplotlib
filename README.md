@@ -10,8 +10,8 @@ A collection of data science scripts for data analysis in Python, using publicly
 ## Installation
 To install all of the libraries, run the commands in the "install.txt" file. These are:
 
-- `sudo apt-get install python-pip`
-- `sudo apt-get install python-matplotlib
+- ```sudo apt-get install python-pip```
+- ```sudo apt-get install python-matplotlib```
 
 ## Information
 ### Matplotlib Plotting
