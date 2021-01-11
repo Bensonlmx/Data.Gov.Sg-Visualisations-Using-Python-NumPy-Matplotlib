@@ -8,7 +8,7 @@ A collection of data science scripts for data analysis in Python, using publicly
 - Matplotlib
 
 ## Installation
-To install all of the libraries, run the commands in the "install.txt" file. These are:
+To install all of the libraries, run the commands:
 
 - ```sudo apt-get install python-pip```
 - ```sudo apt-get install python-matplotlib```
@@ -22,5 +22,5 @@ To install all of the libraries, run the commands in the "install.txt" file. The
 - **Bar plot:** `bar(x_data, y_data, color = '#539caf', align = 'center')`
 - **Box plot:** `boxplot(y_data)` We set the x_data using the x-axis tick labels on the plot `set_xticklabels(x_data)`
 
-###
-Disclaimer: Do remember to change the fname to = "/whatever/yourrfolder/file.csv" in order for the code to work
+### Disclaimer
+Do remember to change the fname to = "/whatever/yourrfolder/file.csv" in order for the code to work
