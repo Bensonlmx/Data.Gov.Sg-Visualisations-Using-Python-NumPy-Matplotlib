@@ -21,3 +21,6 @@ To install all of the libraries, run the commands in the "install.txt" file. The
 - **Probability Density Function:** plot(x_data, density_est(x_data), color = '#539caf', lw = 2) Where `density_est(x_data)` computes the probability density of each data point
 - **Bar plot:** `bar(x_data, y_data, color = '#539caf', align = 'center')`
 - **Box plot:** `boxplot(y_data)` We set the x_data using the x-axis tick labels on the plot `set_xticklabels(x_data)`
+
+###
+Disclaimer: Do remember to change the fname to = "/whatever/yourrfolder/file.csv" in order for the code to work
