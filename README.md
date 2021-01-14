@@ -24,5 +24,5 @@ To install all of the libraries, run the commands:
 - **Box plot:** `boxplot(y_data)` We set the x_data using the x-axis tick labels on the plot `set_xticklabels(x_data)`
 
 ### Disclaimer
-Do remember to change the fname to = "/whatever/yourrfolder/file.csv" in order for the code to work
-For this reason, I recommend using Spyder to load rather than the initially-friendlier Jupyter Notebook
+- Do remember to change the fname to = "/whatever/yourrfolder/file.csv" in order for the code to work
+- For this reason, I'd recommend using Spyder to load rather than the initially-friendlier Jupyter Notebook
