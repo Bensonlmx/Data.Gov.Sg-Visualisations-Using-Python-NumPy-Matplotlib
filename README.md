@@ -11,6 +11,7 @@ A collection of data science scripts for data analysis in Python, using publicly
 To install all of the libraries, run the commands:
 
 - ```sudo apt-get install python-pip```
+- ```sudo apt-get install python-numpy```
 - ```sudo apt-get install python-matplotlib```
 
 ## Information
@@ -24,3 +25,4 @@ To install all of the libraries, run the commands:
 
 ### Disclaimer
 Do remember to change the fname to = "/whatever/yourrfolder/file.csv" in order for the code to work
+For this reason, I recommend using Spyder to load rather than the initially-friendlier Jupyter Notebook
