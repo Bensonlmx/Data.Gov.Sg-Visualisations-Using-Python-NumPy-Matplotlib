@@ -1,10 +1,10 @@
 # Data.Gov.Sg-Visualisations-Using-Python-NumPy-Matplotlib
 
 ## Pandas Aside
-A collection of data science scripts for data analysis in Python, using publicly available .gov datasets. The algorithms are implemented in two ways: from scratch in Python and using only two libraries without resorting to Pandas. 
+A collection of data science scripts for data analysis in Python, using publicly available .gov datasets. The algorithms are implemented in two ways: from scratch in Python and using only two rudimentary libraries without resorting to using the comparatively easier Pandas library
 
 ### Python Libraries Used 
-- Numpy
+- NumPy
 - Matplotlib
 
 ## Installation
